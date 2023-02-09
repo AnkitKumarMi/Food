@@ -1,0 +1,793 @@
+*{margin: 0px;}
+.con{
+    width: 100%;
+    height: 400px;
+    background-image: url('https://png.pngtree.com/thumb_back/fh260/20170803/pngtree-Food-Menu-Fare-Meal-background-photo-869492.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ro{
+    width: 100%;
+    display: flex;
+    position: relative;
+    
+}
+.le{
+    width: 50%;
+    position: relative;
+    display: flex;
+
+}
+.ri{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+    position: relative;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    transition: 1s;
+
+
+}
+.r1:hover{
+    color:rgb(121, 7, 121);
+}
+.mid{
+    width: 100%;
+    text-align: center;
+    top:20%;
+    position: relative;
+
+   
+}
+.int{
+    width: 800px;
+    height: 35px;
+    justify-content: space-between;
+    text-align: left;
+    font-weight: bold;
+    margin: auto;
+    border: 2px solid white;
+}
+.size{
+    font-weight: bolder;
+    font-size: 60px;
+   color: white;
+   position: relative;
+   font-style: italic;
+  
+    
+}
+.size1{
+    font-weight: bolder;
+    color: white;
+    font-size: 40px;
+    position: relative;
+    padding-bottom: 30px;
+}
+.s{
+    text-align:left;
+    color:rgb(255, 0, 170);
+    font-size: 20px;
+}
+.a1{
+    border: none;
+    position: relative;
+    text-align: center;
+}
+.v1{
+    border-left: 4px solid rgba(0, 0, 0, 0.863);
+    height: 20px;
+    text-align: center;
+    margin-left: 27%;
+    
+    position: relative;
+    margin-top: -3%;
+}
+.w{
+    width: 300px;
+    position: relative;
+    border: none;
+   
+}
+.r1{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 30px;
+    
+}
+.container{
+    width: 100%;
+    height: auto;
+}
+.m{
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    transition: 3s;
+}
+.m:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.2);
+    
+
+}
+.m2:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.2);
+}
+    
+
+  .m3:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.2);
+    
+
+}
+
+.m2{
+    width: 400px;
+    height: 200px;
+    border-radius: 10px;
+    transition: 3s;
+}
+
+.m3{
+    width: 400px;
+    height: 200px;
+    border-radius: 20px;
+    transition: 3s;
+}
+.m4{
+    width: 250px;
+    height: 300px;
+    position: relative;
+    transition: 3s;
+
+}
+.m4:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.2);
+    
+
+}
+.r2{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 30px;
+    height: 400px;
+    margin: auto;
+    
+}
+.m5{
+    width: 300px;
+    height: 300px;
+    position: relative;
+    background-image: url('d.jgp.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    color: white;
+    
+
+}
+.m6{
+    background-image: url('i.jpg');
+    width: 300px;
+    height: 300px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+.m7{
+    background-image: url('c.jgp.jpeg');
+    width: 300px;
+    height: 300px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+}
+.m8{
+    background-image: url('m.jpg');
+    width: 300px;
+    height: 300px;
+    position: relative;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    
+}
+.m5:hover{
+    display: block;
+}
+.p1{
+    border: none;
+    font-weight: bolder;
+    color: white;
+    padding-top: 80%;
+    position: relative;
+    font-weight: 20px;
+    padding-left: 5px;
+    font-size: 20px;
+    margin: auto;
+}
+.p2{
+    margin-left: 10px;
+    position: relative;
+    border: none;
+    color:blue;
+}
+.c2{
+    width: 100%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+}
+.rr1{
+    width: 100%;
+   display: flex;
+    justify-content: space-around;
+    height: auto;
+    margin: auto;
+    border-radius: 20px;
+    padding-bottom: 20px;
+}
+.bt{
+    width: 30%;
+    position: relative;
+    height: auto;
+    border-radius: 20px;
+   
+    display: flex;
+    padding-top: 15px;
+    padding-right: 2px;
+    justify-content: space-between;
+    
+}
+
+.bt2{
+    font-size: 25px;
+}
+.bt3{
+    text-decoration: none;
+    color: black;
+}
+.con2{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+   
+   
+}
+.con3{
+    width: 100%;
+    background-color: ghostwhite;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.bt11{
+    width: 30%;
+    position: relative;
+    height: 100px;
+    border-radius: 20px;
+
+    font-size: 20px;
+   
+   
+    
+    
+}
+.bt12{
+    
+   width: 100%;
+   height: 100px;
+    position: relative;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px;
+    
+    
+}
+.tt1{
+   margin-left: 10%;
+    font-size: 40px;
+}
+.st1{
+    width: 80%;
+    border-radius: 10px;
+    height: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+    position: relative;
+}
+.con4{
+    width: 100%;
+    height: auto;
+    padding-top: 20px;
+}
+.st11{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.rcon3{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    height: auto;
+}
+.fab{
+    justify-content: space-around;
+    position: relative;
+    display: flex;
+    padding-left: 2px;
+}
+.sa{
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    
+   
+
+}
+.con6{
+    width: 80%;
+    background-color: ghostwhite;
+    height: 30px;
+    display: flex;
+    
+
+}
+.rcon4{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    height: auto;
+    
+    position: relative;
+   margin-right: 8%;
+    margin-left: 8%;
+}
+.sel{
+    border: 0.2px solid wheat;
+    padding-left: 3px;
+
+}
+.rcon5{
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    height: auto;
+    
+    position: relative;
+   margin-right: 8%;
+    margin-left: 8%;
+}
+.le1{
+    width: 40%;
+    position: relative;
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    position: relative;
+    padding-left: 40px;
+
+}
+.ri1{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    text-align: right;
+    position: relative;
+    font-size: 20px;
+    padding-top: 8px;
+  
+
+
+}
+.con7{
+    width: 100%;
+    height: auto;
+    
+
+}
+.del{
+    width: 100%;
+    height: 600px;
+    background-image:url("https://media.gettyimages.com/id/1243669578/photo/a-delivery-worker-of-zomato-an-indian-food-delivery-company-waits-to-pick-up-an-order-from-a.jpg?s=612x612&w=0&k=20&c=4S7SGes4kOf9CZyLh6mRuoDutlTm_E_2-xYkCNFiVpI=") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.del1{
+    width: 100%;
+    height: 700;
+}
+.ri3{
+    width: 70%;
+    display: flex;
+    border: none;
+    justify-content: space-around;
+}
+.bti1{
+    width: 300px;
+    border: none;
+    font-size: 20px;
+}
+.ri4{
+    width: 300px;
+    height: 50px;
+    background-color: palevioletred;
+    margin-top: 20px;
+    margin-left: 6%;
+    border-radius: 10px;
+    border: 1px solid pink;
+    color: white;
+    font-size: 20px;
+}
+.ai1{
+    color: white;
+    text-decoration: none;
+    transition: 3s;
+    
+    
+}
+.ai1:hover{
+    color: rgb(224, 22, 56);
+    text-decoration: underline palevioletred;
+    
+
+}
+.login{
+    color:white;
+    text-decoration: none;
+    transition: 3s;
+}
+.login :hover{
+    color: rgb(224, 22, 56);
+    text-decoration: underline palevioletred;
+
+}
+.del2{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    background-color: ghostwhite;
+    padding-top: 10px;
+}
+.ai2{
+    text-decoration: none;
+    color: rgb(248, 7, 156);
+}
+.m9{
+    background-image: url('https://www.zomato.com/blog/wp-content/uploads/2022/11/Cover-10-1536x864.png');
+    width: 450px;
+    height: 300px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    text-align: right;
+    
+        
+    
+    }
+.m10{
+    background-image: url('https://www.zomato.com/blog/wp-content/uploads/2022/11/IMG_20221121_193133-1-2-1536x865.png');
+    width: 450px;
+    height: 300px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    text-align: right;
+}
+.m11{
+    background-image: url('https://www.zomato.com/blog/wp-content/uploads/2022/11/Cover-8-1536x868.png');
+    width: 450px;
+    height: 300px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 20px;
+    text-align: right;
+}
+.bot{
+    border: none;
+    background-color: gray;
+    margin-top: 60%;
+
+}
+.r22{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    padding-top: 5px;
+    height: auto;
+    margin: auto;
+    
+}
+.ri5{
+    width: 350px;
+    height: 50px;
+    background-color: palevioletred;
+    margin-top: 20px;
+    
+    border-radius: 10px;
+    border: 1px solid pink;
+    color: white;
+    font-size: 20px;
+}
+.s2{
+    margin-top: 20px;
+}
+.con21{
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+   
+   
+}
+.int2{
+    width: 900px;
+    height: 45px;
+    justify-content: space-between;
+    text-align: left;
+    font-weight: bold;
+    margin: auto;
+    border: 2px solid rgb(245, 245, 245);
+    border-radius: 10px;
+}
+.w2{
+    width: 600px;
+    position: relative;
+    border: none;
+    height: 40px;
+    margin: auto;
+   
+}
+.ai11{
+    text-decoration: none;
+    color: black;
+}
+.con22{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+
+}
+.con23{
+    width: 98%;
+    height: 500px;
+    background-image: url('https://images.unsplash.com/photo-1472898965229-f9b06b9c9bbe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8b3BlbnxlbnwwfHwwfHw%3D&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 20px;
+    border-radius: 30px;
+}
+.seti{
+    padding-top: 300px;
+    padding-left: 20px;
+    position: relative;
+    color: white;
+    font-size: 70px;
+
+}
+.tt{
+    width: 90%;
+    position: relative;
+    padding-left: 20px;
+    font-size: 25px;
+}
+.mm1{
+    
+        width: 98%;
+        height: 400px;
+        margin: 20px;
+    
+}
+.mm2{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    position: relative;
+ 
+}
+.mm3{
+    width: 100%;
+        position: relative;
+        justify-content: space-between;
+        display: flex;
+        
+
+}
+.cont{
+    width: 100%;
+    height: 100vh;
+}
+.rtn{
+    width: 500px;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 450px;
+    position: relative;
+    background-color: aqua;
+}
+* {box-sizing: border-box;}
+
+
+.f2 {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* Add a background color when the inputs get focus */
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for all buttons */
+form button {
+  background-color: #04AA6D;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+form button:hover {
+  opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn, .signupbtn {
+  float: left;
+  width: 50%;
+}
+
+/* Add padding to container elements */
+.contain {
+  padding: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: #474e5d;
+  padding-top: 50px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+ 
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 35px;
+  top: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.close:hover,
+.close:focus {
+  color: #f44336;
+  cursor: pointer;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+     width: 100%;
+  }
+}
+.geekmark {
+   
+    background-color: blue;
+
+}
+
+  .st{
+    font-size: 30px;
+    color: white;
+  } 
+ 
+
+.dib{
+    margin-top: 0px;
+    color: white;
+    font-size: 10px;
+  
+   
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+   
+    padding: 10px;
+    margin-left: 30px;
+  }
+  
+  .grid-item {
+    color: black;
+    
+    padding: 10px;
+    font-size: 15px;
+    text-align: left;
+    justify-content: space-around;
+  }
+  .bton1{
+    background-color: #202A44;
+    display: flex;
+    border-radius: 10px;
+    width: 250px;
+    
+    position: relative;
+    margin-right: 5%;
+   justify-content: space-around;
+   text-align: left;
+  
+   
+
+  }
+  .imgsign{
+    width: 50px;
+    border-radius: 50%;
+  }
+  
